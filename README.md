@@ -7,3 +7,9 @@ It is simple regression problem solved using sklearn and keras libraries. In thi
 The project template can be used to solve any  regression problem we generally encounter.
 
 #project 2: regression_housing_price
+
+It as an advanced regression problem involved 
+  - Exploratory data analysis - finding how relavent the individual features are
+  - feature engineering (dropping irrelevant features, converting date time strings)
+  - Visualization
+  - Model training and prediction
