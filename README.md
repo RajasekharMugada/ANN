@@ -21,3 +21,12 @@ It as a classification problem involved
   - seaborn heatmap
   - Early stopping
   - Dropouts to solve overfitting problem
+
+
+## Project 4: classification - lending club data
+
+Sub set of lendingClub data has been used to demonstrate classification problem to predict loan repayment status
+DataSet obtained from Kaggle: https://www.kaggle.com/wordsforthewise/lending-club
+
+
+ 
